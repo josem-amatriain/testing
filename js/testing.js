@@ -1,4 +1,6 @@
 
 /* testing  */
 
-alert('/hacked/');
+function alerta() {
+    alert('/hacked/');
+    }
