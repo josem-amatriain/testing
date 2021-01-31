@@ -2,5 +2,5 @@
 /* testing  */
 
 function alerta() {
-    alert('/hacked/');
+    alert('/You are hacked/');
     }
